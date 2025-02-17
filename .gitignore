@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+# Diretórios de build
+dist/
+build/
+# Arquivos de ambiente
+.env
+# Arquivos específicos do sistema operacional
+.DS_Store
+# Arquivos do VSCode
+.vscode/
+# Cypress logs e vídeos
+cypress/videos/
+cypress/screenshots/
